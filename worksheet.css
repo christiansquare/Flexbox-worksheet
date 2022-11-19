@@ -1,0 +1,125 @@
+/* Number One */
+.container-1 {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Number Two */
+.container-2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+/* Number Three */
+.container-3 {
+    display: flex;
+    align-items: center;
+}
+
+/* Number Four */
+.container-4 {
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+/* Number Five */
+.container-5 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+/* Number Six */
+.container-6 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* Number Seven */
+.container-7 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* Number Eight */
+.container-8 {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+/* Number Nine */
+.container-9 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* Number Ten */
+.container-10 {
+    display: flex;
+    flex-wrap: wrap;justify-content: space-evenly;
+    align-items: center;
+
+}
+
+/* Number Eleven */
+.container-11 {
+    display: flex;
+    flex-wrap: wrap;
+align-content: normal;
+justify-content: space-evenly;
+align-items: center;
+}
+
+/* Number Twelve */
+.container-12 {
+    display: flex;
+    flex-wrap: nowrap;
+align-content: flex-end;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.nerf-12 {
+    background-color: blue;
+    align-self: flex-end;
+}
+
+/* Number Thirteen */
+.container-13 {
+display: flex;
+flex-direction: row-reverse;
+align-content: flex-start;
+flex-wrap: nowrap;
+align-content: flex-start;
+justify-content: space-evenly;
+align-items: center;
+}
+
+.nerf-13 {
+    background-color: blue;
+    align-self: center;
+
+}
+
+/* Number Fourteen */
+.container-14 {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: normal;
+   justify-content: space-evenly;
+  align-items: center;
+
+}
+
+.nerf-14 {
+    background-color: blue;
+    align-self: stretch;
+}
+
